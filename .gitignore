@@ -1,0 +1,3 @@
+# local preview only (python tools/build.py writes it)
+preview.html
+__pycache__/
